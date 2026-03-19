@@ -1,6 +1,6 @@
 # 🧰 Document Utility Hub - Mobile PWA
 
-This repository serves as the **Progressive Web App (PWA)** wrapper for the Document Utility Hub—a 38-tool "Swiss Army Knife" for document processing built with Python and Streamlit.
+This repository serves as the **Progressive Web App (PWA)** wrapper for the Document Utility Hub—a 36-tool "Swiss Army Knife" for document processing built with Python and Streamlit.
 
 ## 📱 What is this?
 Streamlit Community Cloud does not natively support hosting PWA root files (`manifest.json` and `service-worker.js`). To bypass this limitation and provide a **native mobile app experience**, this repository acts as a lightweight, full-screen HTML shell hosted via GitHub Pages. 
@@ -40,4 +40,4 @@ If you are a developer looking to wrap your own Streamlit app into a PWA:
 5. Deploy using GitHub Pages!
 
 ---
-*Looking for the Python source code? The actual Streamlit application logic and the 38 tools are hosted in a separate repository here: `[INSERT_MAIN_STREAMLIT_GITHUB_REPO_LINK_HERE]`*
+*Looking for the Python source code? The actual Streamlit application logic and the 36 tools are hosted in a separate repository here: `[INSERT_MAIN_STREAMLIT_GITHUB_REPO_LINK_HERE]`*
