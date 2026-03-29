@@ -10,7 +10,7 @@ It seamlessly embeds the live Streamlit application inside an `iframe` while pro
 ## 🚀 Live Application
 **Access the mobile app here:** `[INSERT_YOUR_GITHUB_PAGES_URL_HERE]`
 
-*(Main Web App URL: https://huggingface.co/spaces/mohamedaliekamara/productivity-tools-hub)*
+*(Main Web App URL:https://document-utility.streamlit.app/)*
 
 ## 📥 How to Install on Mobile
 
